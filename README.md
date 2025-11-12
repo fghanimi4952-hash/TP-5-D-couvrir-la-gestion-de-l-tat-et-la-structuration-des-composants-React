@@ -4,5 +4,7 @@ Ce projet React démontre les concepts fondamentaux de la gestion d'état et de 
 
 # Résultat
 
-https://github.com/user-attachments/assets/628c10a7-0ce1-4817-8d9d-46c2ccd53745
+
+https://github.com/user-attachments/assets/54488b32-e2ec-4c56-85bb-570eb6e034dd
+
 
